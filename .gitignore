@@ -1,0 +1,5 @@
+# Ignore all plugins
+wp-content/plugins/*
+
+# Except this one
+!wp-content/plugins/your-plugin-folder/**
